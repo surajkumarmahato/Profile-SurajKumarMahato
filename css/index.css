@@ -76,7 +76,7 @@ a
 
 #Android
 {
-    background: url(and.jpg) no-repeat center center/cover;
+    background: url(images/and.jpg) no-repeat center center/cover;
 }
 #Android h4
 {
@@ -85,7 +85,7 @@ a
 }
 #Web
 {
-    background: url(web.jpg) no-repeat center center/cover;
+    background: url(images/web.jpg) no-repeat center center/cover;
 }
 #Web h3
 {
@@ -94,7 +94,7 @@ a
 }
 #dsa
 {
-    background: url(dsa.jpg) no-repeat center center/cover;
+    background: url(images/dsa.jpg) no-repeat center center/cover;
 }
 #dsa h5
 {
@@ -104,7 +104,7 @@ a
 }
 #Photography
 {
-    background: url(pg.jpg) no-repeat center center/cover;
+    background: url(images/pg.jpg) no-repeat center center/cover;
 }
 #Photography h3
 {
@@ -113,7 +113,7 @@ a
 }
 #Post
 {
-    background: url(pp.jpg) no-repeat center center/cover;
+    background: url(images/pp.jpg) no-repeat center center/cover;
 }
 #Post h3
 {
@@ -122,7 +122,7 @@ a
 }
 #Videography
 {
-    background: url(vid.jpg) no-repeat center center/cover;
+    background: url(images/vid.jpg) no-repeat center center/cover;
 }
 #Videography h3
 {
